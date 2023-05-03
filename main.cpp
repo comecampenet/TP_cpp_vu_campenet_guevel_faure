@@ -44,6 +44,6 @@ int main()
 	rectangle(image, 23, 24, 258, 77, 24, RGB(24, 62, 145), RGB(254, 146, 234));
 
 	cv::waitKey();
-
+	std::cout << "AAAAAAAAAAAAAA";
 	return 0;
 }
